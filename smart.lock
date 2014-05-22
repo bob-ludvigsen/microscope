@@ -1,6 +1,7 @@
 {
   "meteor": {},
   "dependencies": {
+<<<<<<< HEAD
     "basePackages": {
       "iron-router": {},
       "spin": {},
@@ -28,5 +29,9 @@
         "commit": "8bc53798fe5965669ae67c72f91829fcfdceabfd"
       }
     }
+=======
+    "basePackages": {},
+    "packages": {}
+>>>>>>> origin/master
   }
 }
